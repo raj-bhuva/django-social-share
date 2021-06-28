@@ -21,7 +21,7 @@ setup(
     version=version,
     description="Templatetags for 'tweet this' and 'share on facebook'",
     long_description=README,
-    url='https://github.com/fcurella/django-social-share',
+    url='https://github.com/raj-bhuva/django-social-share',
     license='MIT',
     author='Flavio Curella',
     author_email='flavio.curella@curella.org',
