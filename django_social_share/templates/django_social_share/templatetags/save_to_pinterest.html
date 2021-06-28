@@ -1,0 +1,17 @@
+<div class="pinterest-this">
+  <a
+    data-pin-do="buttonPin"
+    class="pinterest"
+    {%if
+    pin_count
+    %}
+    data-pin-count="beside"
+    {%
+    endif
+    %}
+    href="{{ pinterest_url }}"
+    target="_blank"
+  >
+    <i class="fa fa-pinterest"></i>
+  </a>
+</div>
